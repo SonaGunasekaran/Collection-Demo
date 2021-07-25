@@ -7,6 +7,9 @@ namespace Collections
         static void Main(string[] args)
         {
             Console.WriteLine("Collections Programs!");
+            ListSample list = new ListSample();
+            list.ListOperations();
+            
         }
     }
 }
