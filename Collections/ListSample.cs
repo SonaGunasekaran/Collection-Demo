@@ -18,7 +18,8 @@ namespace Collections
             //Remove elements into the list
             Console.WriteLine("Remove Elements in list");
             list.Remove("policy");
-            
+            Display(list);
+
         }
         //Display elements in the list
         public void Display(List<string> list)
