@@ -6,7 +6,7 @@ namespace Collections
 {
     class StackSample
     {
-        public void ExecuteStack()
+        public void StackOperations()
         {
             Stack<int> stack = new Stack<int>();
             //insert the elements into the stack
